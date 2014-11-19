@@ -1,4 +1,4 @@
-# john albiston
+# john albiston ex
 ## These allow the cashing of the inverse of a matrix
 ## they allow a matrix to be created an dthen cashed alowing for quick retrival
 
